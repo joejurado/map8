@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+"features": [
+{ "type": "Feature", "properties": { "FID": 0.000000, "latitude": 41.983962, "longitude": -87.655323, "time": 1, "id": "route1", "name": "Home" }, "geometry": { "type": "Point", "coordinates": [ -87.6553201675415, 41.98396237059098 ] } },
+{ "type": "Feature", "properties": { "FID": 1.000000, "latitude": 41.983771, "longitude": -87.660298, "time": 2, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.66029834747314, 41.98377096818754 ] } },
+{ "type": "Feature", "properties": { "FID": 2.000000, "latitude": 41.979815, "longitude": -87.660084, "time": 3, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.66008377075195, 41.97981518969303 ] } },
+{ "type": "Feature", "properties": { "FID": 3.000000, "latitude": 41.979847, "longitude": -87.663603, "time": 4, "id": "route1", "name": "Lisa's" }, "geometry": { "type": "Point", "coordinates": [ -87.66360282897949, 41.97984709211544 ] } }
+]
+}
